@@ -2,4 +2,4 @@
 
 ## Purpose of The Project
 
-The Files is created to get fimiliar with Redux in React.
+The Files is created to get familiar with Redux in React.
